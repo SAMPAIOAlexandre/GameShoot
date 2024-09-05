@@ -9,3 +9,8 @@
 - HTML
 - CSS
 - Javascript
+
+
+## Règle du jeu 
+
+Si vous tirez sur les cibles JS vous gagnez des points si vous tirez sur les cibles PHP c'est l'inverse vous perdez des points ;) ( rien de personnel juste une petite blague pour un de nos professeurs ) 
